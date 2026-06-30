@@ -1,7 +1,7 @@
 const images = [
-    "images/loading2.jpg",
-    "images/loading3.jpg",
-    "images/loading4.jpg",
+    // "images/loading2.jpg",
+    // "images/loading3.jpg",
+    // "images/loading4.jpg",
     "images/aboutImage.jpg"
 ];
 
